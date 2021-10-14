@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yessglory17&label=Profile%20views&color=0e75b6&style=flat" alt="yessglory17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessglory17" alt="yessglory17" /></a> </p>
+
 
 - 🔭 I’m currently working on **Pet Owner App**
 
@@ -14,6 +14,8 @@
 - 💬 Ask me about **React.js, Vue.js , Nodejs, Python**
 
 - 📫 How to reach me **ozgurkurucan337@gmail.com**
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yessglory17" alt="yessglory17" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +32,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yessglory17&show_icons=true&locale=en&layout=compact" alt="yessglory17" /></p>
+<p><img align="left" height:"200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yessglory17&show_icons=true&locale=en&layout=compact" alt="yessglory17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yessglory17&show_icons=true&locale=en" alt="yessglory17" /></p>
+<p>&nbsp;<img align="center" width="50%" height:"200px" src="https://github-readme-stats.vercel.app/api?username=yessglory17&show_icons=true&locale=en" alt="yessglory17" /></p>
 
