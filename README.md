@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yessGlory17](https://github.com/yessGlory17)
 
-- 💬 Ask me about **React.js, Vue.js , Nodejs, Python**
+- 💬 Ask me about **React.js, Vue.js , Nodejs, Python, HTML, Css, Unity, Flutter, React Native**
 
 - 📫 How to reach me **ozgurkurucan337@gmail.com**
 
