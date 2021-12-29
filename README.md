@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Pet Owner App**
+- 🔭 I’m currently working on **NFT MARKETPLACE APP**
 
-- 🌱 I’m currently learning **React Native & Node.js**
+- 🌱 I’m currently learning **ReactJS & Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yessGlory17](https://github.com/yessGlory17)
 
